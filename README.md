@@ -1,14 +1,12 @@
 <div align="center">
 
-# 💊 MediStock
-
 ### 🏥 Pharmacy Inventory Alert System
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=700&color=DC2626&center=true&vCenter=true&width=1000&lines=Smart+Pharmacy+Inventory+Dashboard;Medicine+Stock+%7C+Batch+Tracking+%7C+Expiry+Alerts;Low+Stock+Monitoring+%7C+CSV+Reports;Python+%7C+Streamlit+%7C+SQLite+%7C+Pandas;Healthcare-Tech+Portfolio+Project" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=110&section=header&text=MediStock&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=110&section=header&text=💊 MediStock&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br/>
 
