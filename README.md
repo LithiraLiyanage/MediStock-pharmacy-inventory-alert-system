@@ -21,9 +21,27 @@
 
 ## 📸 Project Preview
 
-- `screenshots/landing.png`
-- `screenshots/dashboard.png`
-- `screenshots/alerts.png`
+<div align="center">
+
+### 🏥 Landing Page
+
+<img src="screenshots/Landing.PNG" alt="MediStock Landing Page" width="100%" />
+
+<br/>
+<br/>
+
+### 📊 Dashboard
+
+<img src="screenshots/Dashboard.PNG" alt="MediStock Dashboard" width="100%" />
+
+<br/>
+<br/>
+
+### 📈 Analytics Graphs
+
+<img src="screenshots/Graph.PNG" alt="MediStock Analytics Graphs" width="100%" />
+
+</div>
 
 ---
 
