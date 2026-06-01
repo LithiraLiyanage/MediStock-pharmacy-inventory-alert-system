@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=110&section=header&text=💊 MediStock&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=110&section=header&text=MediStock&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br/>
 
