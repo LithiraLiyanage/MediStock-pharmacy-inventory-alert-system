@@ -38,21 +38,21 @@
 
 ### 🏥 Landing Page
 
-<img src="./screenshots/Landing.PNG" alt="MediStock Landing Page" width="100%" />
+<img src="screenshots/landing.png" alt="MediStock Landing Page" width="100%" />
 
 <br/>
 <br/>
 
 ### 📊 Pharmacy Dashboard
 
-<img src="./screenshots/Dashboard.PNG" alt="MediStock Pharmacy Dashboard" width="100%" />
+<img src="screenshots/dashboard.png" alt="MediStock Pharmacy Dashboard" width="100%" />
 
 <br/>
 <br/>
 
 ### 📈 Analytics Graphs
 
-<img src="./screenshots/Graph.PNG" alt="MediStock Analytics Graphs" width="100%" />
+<img src="screenshots/graph.png" alt="MediStock Analytics Graphs" width="100%" />
 
 </div>
 
